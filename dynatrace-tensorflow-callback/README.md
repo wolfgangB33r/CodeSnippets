@@ -14,3 +14,11 @@ model.fit(
     callbacks=[dt_callback],
     )
 ```
+
+Find all the TensorFlow reported metrics within your Dynatrace metric browser, as shown below:
+
+![](metrics.png)
+
+Now you can chart your models performance within a dashboard.
+
+![](chart.png)
